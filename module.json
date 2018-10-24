@@ -1,7 +1,7 @@
 {
-	"disableAutoUpdate": false,
+	"disableAutoUpdate": true,
 	"options": {
-		"niceName": "glsguide"
+		"niceName": "gls-guide"
 	},
-	"servers": ["https://raw.githubusercontent.com/unnamed44/glsguide/master/"]
+	"servers": ["https://raw.githubusercontent.com/unnamed44/gls-guide/master/"]
 }
